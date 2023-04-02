@@ -1,0 +1,23 @@
+.btn-blue{
+	background-color: #6D71DD;
+	color:white;
+	padding: 10px 15px;
+	border-radius: 20px;
+	font-weight: bold;
+	}
+.btn-blue:hover{
+	color: #1e1852;
+}
+
+.btn-marine{
+	background-color: #6D71DD;
+	font-family: 'Roboto Slab', serif; 
+	color:white;
+	padding: 5px 10px;
+	border-radius: 15px;
+	font-weight: bold;
+	}
+}
+.btn-marine:hover{
+	color: #2B3467;
+}
